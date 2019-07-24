@@ -1,4 +1,5 @@
-#Getting started with Quixote
+Getting started with Quixote
+============================
 
 ## Foreword
 

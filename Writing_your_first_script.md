@@ -1,4 +1,5 @@
-# Writing your first script
+Writing your first script
+=========================
 
 ## Introduction
 

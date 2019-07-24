@@ -1,4 +1,5 @@
-# Installing
+Installing
+==========
 
 This section will explain how Quixote can be installed on your machine.
 
