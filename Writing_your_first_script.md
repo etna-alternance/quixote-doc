@@ -9,8 +9,7 @@ Its only pre-requisites are a working installation of Quixote (see [Installing](
 
 ## What is a moulinette ?
 
-A moulinette describes operations that should be applied to a particular piece of data, in order to produce a result. A typical example would be in the context of the validation of an exercise. The mou
-
+A moulinette describes operations that should be applied to a particular piece of data, in order to produce a result. A typical example would be in the context of the validation of an exercise.
 
 
 With **Quixote**, a moulinette is a set of scripts and resources specifying the job's execution environment and behavior.
@@ -18,4 +17,5 @@ With **Quixote**, a moulinette is a set of scripts and resources specifying the 
 The scripts must specify the three following things:
 
 - How the job's environment should be configured (installed applications, dependencies, ...)
-- How the job should fetch the data to analyze.
+- How the job should fetch the data to inspect.
+- How the job should inspect the data
