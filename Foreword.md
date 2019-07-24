@@ -5,7 +5,7 @@ Getting started with Quixote
 
 Welcome to Quixote's getting started guide!
 
-Quixote is a Python-based front-end for scripting automated tests.
+Quixote is a Python-based front-end for scripting automated tests (and more).
 
 ## How to read this guide
 
